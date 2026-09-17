@@ -4,8 +4,8 @@
 
 ## Identity and control
 
-- **Name / role:** `TEMPLATE`.
-- **Control:** `TEMPLATE`; never choose significant player actions.
+- **Name / role:** `Shadow` — humain, Hunter de très bas rang.
+- **Control:** joueur solo; never choose significant player actions.
 
 ## Mechanics known
 
@@ -13,10 +13,10 @@
 |---|---|
 | Class / level | UNKNOWN |
 | HP / CA | UNKNOWN |
-| Relevant abilities | TEMPLATE |
-| Known magic / techniques | TEMPLATE |
+| Relevant abilities | UNKNOWN au départ; progression inspirée de Sung Jin-Woo / Solo Leveling, détails à révéler en jeu |
+| Known magic / techniques | UNKNOWN |
 
 ## Equipment and current condition
 
-- `TEMPLATE`.
+- Équipement de Hunter débutant et objets ordinaires nécessaires à la mission; détails exacts **UNKNOWN**.
 - Exact unrecorded resources: **UNKNOWN**.

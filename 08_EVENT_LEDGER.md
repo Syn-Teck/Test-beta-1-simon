@@ -8,4 +8,4 @@ Dates, intervals and unrecorded events are **UNKNOWN**. Do not infer them.
 
 | Order / time | Event | Consequence recorded |
 |---|---|---|
-| Campaign initialization | Template created and facts entered. | **No game event. No World Clock advance. No NPC action.** |
+| Campaign initialization | Configuration `Solo Leveling Test Shadow` validée et état canonique initialisé. | **No game event. No World Clock advance. No NPC action.** |

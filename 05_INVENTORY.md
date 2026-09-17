@@ -6,13 +6,13 @@
 
 | Owner | Item | State / notes |
 |---|---|---|
-| TEMPLATE | TEMPLATE | TEMPLATE |
+| Shadow | Équipement de Hunter débutant et objets ordinaires nécessaires à la mission | Détails exacts, quantités et ressources : UNKNOWN |
 
 ## Party/common loot
 
-- `TEMPLATE`; custody **UNKNOWN** unless explicitly recorded.
+- Aucun loot commun établi; custody **UNKNOWN** si du loot est découvert plus tard.
 
 ## Currency
 
-- Documented recoveries: `TEMPLATE`.
+- Documented recoveries: aucune.
 - Definitive total and carrier: **UNKNOWN** unless reconstructed.

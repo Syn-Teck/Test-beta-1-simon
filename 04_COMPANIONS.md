@@ -6,4 +6,4 @@
 
 | NPC | Role | Current state | Unknowns |
 |---|---|---|---|
-| TEMPLATE | TEMPLATE | TEMPLATE | UNKNOWN |
+| Aucun établi | N/A | Aucun compagnon de départ établi | Futurs compagnons éventuels : UNKNOWN |

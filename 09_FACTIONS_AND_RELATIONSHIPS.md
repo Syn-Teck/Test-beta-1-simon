@@ -6,8 +6,8 @@
 
 | Group | Objective facts | Attributed knowledge / UNKNOWN |
 |---|---|---|
-| TEMPLATE | TEMPLATE | UNKNOWN |
+| Hunters / structures de Hunters | Le cadre établi utilise des Hunters de rangs différents, des guildes, des portails et des raids comme éléments de monde inspirés de Solo Leveling | Organisations précises, noms, hiérarchie détaillée et relations : UNKNOWN |
 
 ## NPC relationship state
 
-- `TEMPLATE`.
+- Aucun PNJ ni relation spécifique établi au départ.

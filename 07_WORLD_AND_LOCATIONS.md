@@ -4,11 +4,11 @@
 
 ## Current location
 
-- `TEMPLATE`.
+- Scène de départ : mission de Hunter apparemment normale; lieu précis **UNKNOWN**.
 
 ## Revealed locations
 
-- `TEMPLATE`.
+- Aucun lieu nommé n’est établi.
 
 ## Fog of war
 
@@ -16,4 +16,4 @@
 
 ## World state
 
-Date/time: **UNKNOWN** unless established.
+Date/time: **UNKNOWN**.

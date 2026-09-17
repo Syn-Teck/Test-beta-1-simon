@@ -4,14 +4,14 @@
 
 ## Role and personality
 
-- **Name / role:** `TEMPLATE`.
-- **Control:** MJ-controlled NPC; intention is **UNKNOWN** until established.
+- **Name / role:** `Aucun compagnon de départ établi`.
+- **Control:** N/A tant qu’aucun compagnon n’est établi.
 
 ## Equipment, mechanics and state
 
 | Field | Established value |
 |---|---|
-| Equipment | TEMPLATE |
-| Resources | TEMPLATE |
-| HP / CA / statistics | UNKNOWN |
-| Current state | TEMPLATE |
+| Equipment | N/A tant qu’aucun compagnon n’est établi |
+| Resources | N/A tant qu’aucun compagnon n’est établi |
+| HP / CA / statistics | N/A tant qu’aucun compagnon n’est établi |
+| Current state | Aucun compagnon de départ établi |

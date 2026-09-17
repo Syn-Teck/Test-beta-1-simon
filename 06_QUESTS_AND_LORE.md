@@ -6,16 +6,21 @@
 
 | Thread | Classification | Current status |
 |---|---|---|
-| TEMPLATE | PLAYER KNOWLEDGE | TEMPLATE |
+| Mission de Hunter de départ | PLAYER KNOWLEDGE | Apparemment normale; aucune action de jeu résolue |
 
 ## Objective observations
 
-- `TEMPLATE`.
+- Shadow est un humain Hunter de très bas rang.
+- La campagne est encore figée avant le début effectif du jeu.
 
 ## Attributed knowledge / beliefs / possible lies
 
-- `TEMPLATE`.
+- Aucun établi.
 
 ## Open mysteries — UNKNOWN
 
-- `TEMPLATE`.
+- Nature de l’irrégularité éventuelle de la mission de départ.
+- Fonctionnement exact de la progression.
+- Premières compétences et récompenses.
+- Ennemis majeurs et secrets du monde.
+- Origine, portée et mécanique exacte des futurs pouvoirs d’ombre.

@@ -4,14 +4,14 @@
 
 ## Identity and control
 
-- **Name / role:** `TEMPLATE`.
-- **Control:** `TEMPLATE`; never choose significant player actions.
+- **Name / role:** `Aucun deuxième personnage joueur établi`.
+- **Control:** N/A; never choose significant player actions.
 
 ## Mechanics, equipment and condition
 
 | Field | Established value |
 |---|---|
-| Class / level | UNKNOWN |
-| HP / CA | UNKNOWN |
-| Relevant abilities | TEMPLATE |
-| Equipment / resources | TEMPLATE |
+| Class / level | N/A tant qu’aucun deuxième personnage n’est établi |
+| HP / CA | N/A tant qu’aucun deuxième personnage n’est établi |
+| Relevant abilities | N/A tant qu’aucun deuxième personnage n’est établi |
+| Equipment / resources | N/A tant qu’aucun deuxième personnage n’est établi |
