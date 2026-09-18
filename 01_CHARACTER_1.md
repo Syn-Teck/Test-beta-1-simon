@@ -8,7 +8,7 @@
 - **Contrôle:** joueur solo.
 - **Classe / niveau:** UNKNOWN.
 - **PV / CA:** UNKNOWN.
-- **État actuel:** stable.
+- **État actuel:** stable, blessé pendant l'épreuve mais encore opérationnel.
 
 ## Capacités révélées
 
@@ -19,14 +19,15 @@
 - Assimilation complète toujours verrouillée.
 
 ### Perception de mana I — passive
-- Débloquée après le contact complet avec la projection dans la salle du trône.
-- Permet à Shadow de ressentir de faibles concentrations d’énergie/mana à courte portée lorsqu’il se concentre.
+- Permet à Shadow de ressentir de faibles concentrations d'énergie/mana à courte portée lorsqu'il se concentre.
 - Portée exacte, précision et limites : encore partiellement UNKNOWN.
 
 ### Accès système
-- **INITIALISÉ / PARTIEL**.
-- Interface capable d’afficher des messages d’évaluation et de progression.
-- Pouvoirs d’ombre / extraction : **NON DÉBLOQUÉS**.
+- **Éveil initial : VALIDÉ**.
+- **Progression système : DÉBLOQUÉE**.
+- Interface capable d'afficher évaluations, conditions et progression.
+- **Héritage principal : VERROUILLÉ**.
+- Pouvoirs d'ombre / extraction : **NON DÉBLOQUÉS**.
 
 ## Équipement
 
@@ -38,4 +39,4 @@
 
 ## État narratif actuel
 
-Shadow se trouve sur les marches du trône, dans la brume, face à une projection lui ressemblant. Il vient d’accepter un contact complet qui a déclenché une transmission.
+Shadow vient d'accepter volontairement l'étape suivante de l'éveil après avoir vaincu la grande statue de la salle du trône. Le système a confirmé son éveil initial et déverrouillé la progression, mais l'héritage principal reste inaccessible.

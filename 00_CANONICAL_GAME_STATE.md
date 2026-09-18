@@ -2,28 +2,31 @@
 
 > **Canon authority:** primary source of truth with `08_EVENT_LEDGER.md`. A conflict is a **CONTINUITY ERROR**, never a silent retcon.
 >
-> **State:** `PLAY ACTIVE — CHECKPOINT AFTER THRONE TRANSMISSION`.
+> **State:** `PLAY ACTIVE — CHECKPOINT AFTER INITIAL AWAKENING ACCEPTANCE`.
 
 ## Current scene
 
 **Location:** salle du trône / zone spéciale du donjon de départ.
 
-**Present:** Shadow est dans la brume, sur les marches du trône. Le chef, le tank et la soigneuse sont derrière lui, plus bas dans la salle.
+**Present:** Shadow se trouve sur les marches du trône, dans la brume, face à la projection humanoïde qui lui ressemble. Le chef, le tank et la soigneuse sont plus bas dans la salle, derrière la protection temporaire.
 
-**OBJECTIVE WORLD TRUTH:** Shadow a accepté le contact complet avec une projection humanoïde portant une marque en résonance avec la sienne. La projection ressemble à une version plus âgée de Shadow, mais sa nature réelle reste UNKNOWN.
+**OBJECTIVE WORLD TRUTH:** Shadow a vaincu la grande statue, puis a explicitement accepté l'étape suivante de l'éveil.
 
-**PLAYER KNOWLEDGE:** la salle évalue Shadow selon plusieurs critères. Courage et volonté ont été validés. L’accès vers le trône a été autorisé. Le contact complet avec la projection a déclenché une transmission.
+**PLAYER KNOWLEDGE:** l'acceptation volontaire était la condition principale manquante pour l'éveil initial. Le système a confirmé l'éveil initial et ouvert la progression, sans encore déverrouiller l'héritage principal ni les pouvoirs d'ombre.
 
 ## Shadow — état actuel
 
 - Humain, Hunter de très bas rang.
-- Classe, niveau exact, PV et CA : **UNKNOWN**.
-- État physique : stable.
-- Arme : épée courte de débutant, actuellement rangée.
+- Classe et niveau exacts : **UNKNOWN**.
+- PV / CA exacts : **UNKNOWN**.
+- État physique : stable, mais a subi des dommages pendant l'épreuve.
+- Arme : épée courte de débutant.
 - Marque : active.
-- Nouvelle capacité révélée : **Perception de mana I (passive)** — Shadow peut ressentir de faibles concentrations d’énergie/mana à courte portée quand il se concentre.
-- Accès système : **INITIALISÉ / PARTIEL**.
-- Pouvoirs d’ombre / extraction : **NON DÉBLOQUÉS**.
+- **Perception de mana I (passive)** : débloquée.
+- **Éveil initial : VALIDÉ**.
+- **Progression système : DÉBLOQUÉE**.
+- **Héritage principal : VERROUILLÉ**.
+- **Pouvoirs d'ombre / extraction : NON DÉBLOQUÉS**.
 
 ## Ressources importantes
 
@@ -35,8 +38,8 @@
 ## Mystères actifs
 
 - Nature réelle de la projection ressemblant à Shadow.
-- Signification du trône et de la statue.
-- Étapes restantes de la transmission.
-- Condition complète d’éveil.
+- Signification complète du trône et de la salle.
+- Nature de l'héritage principal.
+- Conditions des futurs déverrouillages.
 - Origine de la marque.
-- Futurs pouvoirs d’ombre.
+- Futurs pouvoirs d'ombre.
