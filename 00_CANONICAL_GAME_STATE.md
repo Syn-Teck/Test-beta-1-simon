@@ -2,17 +2,17 @@
 
 > **Canon authority:** primary source of truth with `08_EVENT_LEDGER.md`. A conflict is a **CONTINUITY ERROR**, never a silent retcon.
 >
-> **State:** `PLAY ACTIVE — CHECKPOINT AFTER INITIAL AWAKENING ACCEPTANCE`.
+> **State:** `PLAY ACTIVE — POST-AWAKENING / THRONE ROOM`.
 
 ## Current scene
 
 **Location:** salle du trône / zone spéciale du donjon de départ.
 
-**Present:** Shadow se trouve sur les marches du trône, dans la brume, face à la projection humanoïde qui lui ressemble. Le chef, le tank et la soigneuse sont plus bas dans la salle, derrière la protection temporaire.
+**Present:** Shadow, le chef, le tank et la soigneuse. Noctik est disponible comme familier d'ombre, mais n'est pas actuellement invoqué dans la scène.
 
-**OBJECTIVE WORLD TRUTH:** Shadow a vaincu la grande statue, puis a explicitement accepté l'étape suivante de l'éveil.
+**OBJECTIVE WORLD TRUTH:** Shadow a vaincu la grande statue, accepté son éveil initial, assimilé un résidu pur lié au trône puis assimilé l'énergie résiduelle non hostile de la statue.
 
-**PLAYER KNOWLEDGE:** l'acceptation volontaire était la condition principale manquante pour l'éveil initial. Le système a confirmé l'éveil initial et ouvert la progression, sans encore déverrouiller l'héritage principal ni les pouvoirs d'ombre.
+**PLAYER KNOWLEDGE:** le système de progression est ouvert. Shadow peut consulter Statut, Compétences, Inventaire, Journal et Analyse. Quêtes, héritage principal, pouvoirs d'ombre et extraction restent verrouillés.
 
 ## Shadow — état actuel
 
@@ -22,9 +22,12 @@
 - État physique : stable, mais a subi des dommages pendant l'épreuve.
 - Arme : épée courte de débutant.
 - Marque : active.
-- **Perception de mana I (passive)** : débloquée.
+- **Perception de mana** — rang 1, passive : débloquée.
+- **Évocation du familier d'ombre** — rang 1 : débloquée.
+- Familier lié : **Noctik**, petit gobelin d'ombre utilitaire et PNJ contrôlé par le MJ.
 - **Éveil initial : VALIDÉ**.
 - **Progression système : DÉBLOQUÉE**.
+- **Énergie assimilée : 1 unité**.
 - **Héritage principal : VERROUILLÉ**.
 - **Pouvoirs d'ombre / extraction : NON DÉBLOQUÉS**.
 
@@ -34,6 +37,8 @@
 - 1 plaque osseuse sombre.
 - 1 noyau bleu sombre énergétique, caché au groupe.
 - Trace énergétique du gardien conservée par la marque.
+- Résidu pur du trône : entièrement assimilé.
+- Foyer énergétique résiduel de la grande statue : entièrement assimilé.
 
 ## Mystères actifs
 
@@ -43,3 +48,4 @@
 - Conditions des futurs déverrouillages.
 - Origine de la marque.
 - Futurs pouvoirs d'ombre.
+- Limites mécaniques exactes de l'évocation de Noctik, à établir par ruling cohérent lors de la première utilisation pertinente.

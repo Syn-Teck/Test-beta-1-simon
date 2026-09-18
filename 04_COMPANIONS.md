@@ -6,4 +6,10 @@
 
 | NPC | Role | Current state | Unknowns |
 |---|---|---|---|
-| Aucun établi | N/A | Aucun compagnon de départ établi | Futurs compagnons éventuels : UNKNOWN |
+| Noctik | Familier gobelin d'ombre de Shadow; utilitaire, survie, exploration | Disponible via `Évocation du familier d'ombre`; non invoqué actuellement | PV, CA, statistiques, coût/portée/durée exacts de l'évocation |
+
+## Relation avec Shadow
+
+- Noctik est fortement loyal envers Shadow.
+- Il peut critiquer ses décisions, surtout quand elles paraissent suicidaires ou impliquent encore un objet inquiétant.
+- Il n'est pas naturellement héroïque; sa loyauté peut néanmoins surpasser sa peur dans les moments importants.
