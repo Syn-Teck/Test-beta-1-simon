@@ -23,3 +23,4 @@
 | 16 | Shadow assimile le résidu pur dissimulé près du trône. | Stabilité de la marque améliorée; menus Statut, Compétences, Inventaire, Journal et Analyse accessibles. |
 | 17 | Shadow assimile le foyer énergétique résiduel non hostile de la grande statue. | **Énergie assimilée : 1 unité**; progression de Perception de mana augmentée sans passage de rang. |
 | Meta — no World Clock | Le joueur ajoute la compétence **Évocation du familier d'ombre (rang 1)** et définit la personnalité du familier. | **Noctik** devient le familier lié de Shadow, disponible à l'invocation. Aucun événement en monde ni temps écoulé. |
+| 18 | Shadow invoque Noctik dans la salle du trône. | Noctik se matérialise et rejoint la scène comme compagnon PNJ de Shadow. |

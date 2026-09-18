@@ -2,17 +2,17 @@
 
 > **Canon authority:** primary source of truth with `08_EVENT_LEDGER.md`. A conflict is a **CONTINUITY ERROR**, never a silent retcon.
 >
-> **State:** `PLAY ACTIVE — POST-AWAKENING / THRONE ROOM`.
+> **State:** `PLAY ACTIVE — NOCTIK INVOKED IN THRONE ROOM`.
 
 ## Current scene
 
 **Location:** salle du trône / zone spéciale du donjon de départ.
 
-**Present:** Shadow, le chef, le tank et la soigneuse. Noctik est disponible comme familier d'ombre, mais n'est pas actuellement invoqué dans la scène.
+**Present:** Shadow, Noctik, le chef, le tank et la soigneuse.
 
-**OBJECTIVE WORLD TRUTH:** Shadow a vaincu la grande statue, accepté son éveil initial, assimilé un résidu pur lié au trône puis assimilé l'énergie résiduelle non hostile de la statue.
+**OBJECTIVE WORLD TRUTH:** Shadow a invoqué Noctik pour la première fois dans la salle du trône. Noctik est désormais matérialisé et présent dans la scène.
 
-**PLAYER KNOWLEDGE:** le système de progression est ouvert. Shadow peut consulter Statut, Compétences, Inventaire, Journal et Analyse. Quêtes, héritage principal, pouvoirs d'ombre et extraction restent verrouillés.
+**PLAYER KNOWLEDGE:** Noctik est accessible via `Évocation du familier d'ombre` et peut être rappelé/invoqué par Shadow. Les limites mécaniques précises de l'évocation ne sont pas encore entièrement établies.
 
 ## Shadow — état actuel
 
@@ -24,7 +24,7 @@
 - Marque : active.
 - **Perception de mana** — rang 1, passive : débloquée.
 - **Évocation du familier d'ombre** — rang 1 : débloquée.
-- Familier lié : **Noctik**, petit gobelin d'ombre utilitaire et PNJ contrôlé par le MJ.
+- Familier lié : **Noctik**, actuellement invoqué.
 - **Éveil initial : VALIDÉ**.
 - **Progression système : DÉBLOQUÉE**.
 - **Énergie assimilée : 1 unité**.

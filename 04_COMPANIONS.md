@@ -6,7 +6,7 @@
 
 | NPC | Role | Current state | Unknowns |
 |---|---|---|---|
-| Noctik | Familier gobelin d'ombre de Shadow; utilitaire, survie, exploration | Disponible via `Évocation du familier d'ombre`; non invoqué actuellement | PV, CA, statistiques, coût/portée/durée exacts de l'évocation |
+| Noctik | Familier gobelin d'ombre de Shadow; utilitaire, survie, exploration | **Invoqué et présent dans la salle du trône** | PV, CA, statistiques, coût/portée/durée exacts de l'évocation |
 
 ## Relation avec Shadow
 
