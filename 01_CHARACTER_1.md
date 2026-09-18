@@ -2,27 +2,40 @@
 
 > **View only.** This file cannot override the Canon Lock, canonical state, or Event Ledger.
 
-## Identity and control
+## Identité
 
-- **Name / role:** `Shadow` — humain, Hunter de très bas rang.
-- **Control:** joueur solo; never choose significant player actions.
+- **Nom / rôle:** Shadow — humain, Hunter de très bas rang.
+- **Contrôle:** joueur solo.
+- **Classe / niveau:** UNKNOWN.
+- **PV / CA:** UNKNOWN.
+- **État actuel:** stable.
 
-## Mechanics known
+## Capacités révélées
 
-| Field | Established value |
-|---|---|
-| Class / level | UNKNOWN |
-| HP / CA | UNKNOWN |
-| Relevant abilities | Entraînement de Hunter de base; marque inconnue capable de réagir à certaines énergies, détecter une ressource compatible et reconnaître une intention mentale simple |
-| Known magic / techniques | Aucune compétence surnaturelle activable établie; assimilation complète de la marque verrouillée |
+### Marque mystérieuse
+- Réagit à certaines énergies de monstres.
+- Peut reconnaître une intention mentale simple.
+- Peut conserver une trace énergétique.
+- Assimilation complète toujours verrouillée.
 
-## Equipment and current condition
+### Perception de mana I — passive
+- Débloquée après le contact complet avec la projection dans la salle du trône.
+- Permet à Shadow de ressentir de faibles concentrations d’énergie/mana à courte portée lorsqu’il se concentre.
+- Portée exacte, précision et limites : encore partiellement UNKNOWN.
+
+### Accès système
+- **INITIALISÉ / PARTIEL**.
+- Interface capable d’afficher des messages d’évaluation et de progression.
+- Pouvoirs d’ombre / extraction : **NON DÉBLOQUÉS**.
+
+## Équipement
 
 - Épée courte de débutant.
 - 2 griffes intactes du gardien.
-- 1 plaque osseuse sombre du gardien.
-- 1 noyau bleu sombre énergétique, gardé par Shadow et non révélé au groupe.
-- Épaule précédemment blessée par un loup, soignée par la soigneuse; Shadow est actuellement stable.
-- La dent bleutée du loup a été consommée par la marque et détruite.
-- Une trace énergétique du gardien a été conservée par la marque; effet exact **UNKNOWN**.
-- Exact unrecorded resources: **UNKNOWN**.
+- 1 plaque osseuse sombre.
+- 1 noyau bleu sombre énergétique, non révélé au groupe.
+- Trace énergétique du gardien conservée par la marque.
+
+## État narratif actuel
+
+Shadow se trouve sur les marches du trône, dans la brume, face à une projection lui ressemblant. Il vient d’accepter un contact complet qui a déclenché une transmission.
