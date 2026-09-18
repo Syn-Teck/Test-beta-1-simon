@@ -13,10 +13,16 @@
 |---|---|
 | Class / level | UNKNOWN |
 | HP / CA | UNKNOWN |
-| Relevant abilities | UNKNOWN au départ; progression inspirée de Sung Jin-Woo / Solo Leveling, détails à révéler en jeu |
-| Known magic / techniques | UNKNOWN |
+| Relevant abilities | Entraînement de Hunter de base; marque inconnue capable de réagir à certaines énergies, détecter une ressource compatible et reconnaître une intention mentale simple |
+| Known magic / techniques | Aucune compétence surnaturelle activable établie; assimilation complète de la marque verrouillée |
 
 ## Equipment and current condition
 
-- Équipement de Hunter débutant et objets ordinaires nécessaires à la mission; détails exacts **UNKNOWN**.
+- Épée courte de débutant.
+- 2 griffes intactes du gardien.
+- 1 plaque osseuse sombre du gardien.
+- 1 noyau bleu sombre énergétique, gardé par Shadow et non révélé au groupe.
+- Épaule précédemment blessée par un loup, soignée par la soigneuse; Shadow est actuellement stable.
+- La dent bleutée du loup a été consommée par la marque et détruite.
+- Une trace énergétique du gardien a été conservée par la marque; effet exact **UNKNOWN**.
 - Exact unrecorded resources: **UNKNOWN**.

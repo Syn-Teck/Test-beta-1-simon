@@ -6,11 +6,19 @@
 
 | Owner | Item | State / notes |
 |---|---|---|
-| Shadow | Équipement de Hunter débutant et objets ordinaires nécessaires à la mission | Détails exacts, quantités et ressources : UNKNOWN |
+| Shadow | Épée courte de débutant | Portée par Shadow |
+| Shadow | Griffes du gardien | 2 intactes |
+| Shadow | Plaque osseuse sombre du gardien | 1; matériau récupéré |
+| Shadow | Noyau bleu sombre énergétique | 1; stable, physiquement transportable; non révélé au groupe |
+
+## Consommé / détruit
+
+- Dent bleutée du loup : consommée lors d’une interaction avec la marque; désagrégée.
+- Énergie résiduelle du gardien : majorité dissipée; une trace énergétique a été conservée par la marque, quantité/effet exacts **UNKNOWN**.
 
 ## Party/common loot
 
-- Aucun loot commun établi; custody **UNKNOWN** si du loot est découvert plus tard.
+- Aucun loot commun explicitement attribué.
 
 ## Currency
 

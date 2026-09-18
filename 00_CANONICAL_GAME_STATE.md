@@ -2,7 +2,7 @@
 
 > **Canon authority:** primary source of truth with `08_EVENT_LEDGER.md`. A conflict is a **CONTINUITY ERROR**, never a silent retcon.
 >
-> **State freeze:** `VALIDATED SETUP — PLAY NOT STARTED`. Initial setup and administrative work do not begin play, move NPCs, or advance the World Clock.
+> **State:** `PLAY ACTIVE — CHECKPOINT AFTER MAJOR COMBAT / LOOT RECOVERY`.
 
 ## Canon Lock and knowledge labels
 
@@ -12,39 +12,45 @@
 - **HYPOTHESIS:** plausible, not established.
 - **UNKNOWN:** intentionally not established; do not fill in.
 
-## Current scene — frozen
+## Current scene
 
-**Location:** mission de Hunter apparemment normale; lieu précis **UNKNOWN**.
+**Location:** salle du gardien dans le donjon de départ; zone au-delà encore non explorée.
 
-**Present:** Shadow. Autres participants **UNKNOWN**.
+**Present:** Shadow, le chef du groupe, le tank et la soigneuse.
 
-**OBJECTIVE WORLD TRUTH:** Shadow est un humain Hunter de très bas rang. La campagne n’a pas commencé et aucune action de jeu n’a été résolue.
+**OBJECTIVE WORLD TRUTH:** le gardien bipède a été vaincu. Shadow est debout et stable. Son épaule blessée lors du combat précédent a été soignée. Le World Clock a progressé pendant le jeu, mais l’heure et la durée exactes restent UNKNOWN.
 
-**PLAYER KNOWLEDGE:** Shadow sait qu’il est un Hunter de très bas rang et que la mission de départ paraît normale.
+**PLAYER KNOWLEDGE:** Shadow sait que sa marque réagit à certaines énergies de monstres, peut détecter une ressource compatible et a répondu à un ordre mental simple. L’assimilation complète demeure verrouillée et une autorisation inconnue manque.
 
-**No action pending has been selected.** Do not choose significant player-character actions.
+**NPC KNOWLEDGE / BELIEFS / LIES:** le chef sait seulement que Shadow a récupéré deux griffes et une plaque osseuse sombre sur le gardien. Le noyau bleu énergétique n’a pas été révélé au groupe.
 
 ## Party state
 
 | Character | State known now | Explicit unknowns |
 |---|---|---|
-| Shadow | Humain; Hunter de très bas rang; contrôlé par le joueur solo | Classe et niveau exacts, PV, CA, statistiques, ressources, capacités initiales exactes |
-| Player character 2 | Aucun établi | N/A tant qu’aucun deuxième personnage n’est établi |
-| Companion / NPC | Aucun compagnon de départ établi | N/A tant qu’aucun compagnon n’est établi |
+| Shadow | Humain; Hunter de très bas rang; contrôlé par le joueur solo; stable après soins | Classe et niveau exacts, PV, CA, statistiques, fonctionnement complet de la marque |
+| Chef du groupe | Actif; présent dans la salle | Statistiques, ressources et état exacts |
+| Tank | Actif; a subi des blessures pendant le combat du gardien et a reçu des soins | PV et ressources exacts |
+| Soigneuse | Active; présente dans la salle | PV et ressources exacts |
 
 ## Resources and consequential items
 
-- Shadow possède un équipement de Hunter débutant et les objets ordinaires nécessaires à la mission; détails exacts, quantités et ressources : **UNKNOWN**.
+- Shadow possède son épée courte de débutant.
+- Shadow a récupéré **2 griffes intactes** du gardien.
+- Shadow a récupéré **1 plaque osseuse sombre** du gardien.
+- Shadow a récupéré **1 noyau bleu sombre énergétique**, stable et physiquement transportable; le groupe n’est pas informé de cet objet.
+- La dent bleutée récupérée sur le loup a été consommée lors d’une interaction avec la marque et s’est désagrégée.
+- Une **trace énergétique** du gardien a été conservée par la marque; effet exact UNKNOWN.
 
 ## Quests, active pressures, and mysteries
 
-- **PLAYER KNOWLEDGE:** une mission de Hunter apparemment normale constitue la scène de départ.
-- **OBJECTIVE WORLD TRUTH:** aucune action de la mission n’a encore été résolue.
-- **UNKNOWN:** nature de l’irrégularité éventuelle, fonctionnement exact de la progression, compétences, récompenses, ennemis majeurs, origine et portée des futurs pouvoirs d’ombre.
+- **PLAYER KNOWLEDGE:** la mission continue; la zone derrière la position initiale du gardien n’a pas encore été explorée.
+- **HYPOTHESIS:** le gardien semblait protéger quelque chose plus loin dans le donjon.
+- **UNKNOWN:** nature réelle de la marque, condition d’éveil, autorisation requise, fonctionnement exact de l’absorption, progression, futures compétences, origine des pouvoirs d’ombre et ce que protégeait réellement le gardien.
 
 ## World Clock and NPC autonomy
 
-World time/date: **UNKNOWN**. No time passes during setup or administrative work.
+World time/date: **UNKNOWN**. Le jeu a commencé et du temps relatif s’est écoulé pendant l’exploration et les combats; durée exacte **UNKNOWN**.
 
 ## Canonical references
 
